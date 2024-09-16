@@ -46,28 +46,28 @@
  <h2></h2>
 
 <p>
-  <img src="https://github-readme-stats-kv.vercel.app/api?username=Siddhita Acharekar&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Siddhita Acharekar's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=Siddhita Acharekar&theme=tokyonight_duo&hide_border=true" width="48%" alt="Siddhita Acharekar's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats-kv.vercel.app/api?username=siddhitaacharekar&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Siddhita Acharekar's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=siddhitaacharekar&theme=tokyonight_duo&hide_border=true" width="48%" alt="Siddhita Acharekar's github-readme-streak-stats"/>
 </p>
 <!--
 <p>
   <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=piyushzingade&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="piyushzingade's wakatime stats"/> -->
-    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=Siddhita Acharekar&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Siddhita Acharekar" />
+    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=siddhitaacharekar&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Siddhita Acharekar" />
 
 <h2></h2>
 
 <!-- Activity Graph -->
 <p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Siddhita Acharekar&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=siddhitaacharekar&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhita Acharekar&theme=tokyonight&hide_border=true"  width="64%" alt="Siddhita Acharekar profile-details"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhita Acharekar&theme=tokyonight"  width="31%" alt="Siddhita Acharekar github stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhitaacharekar&theme=tokyonight&hide_border=true"  width="64%" alt="Siddhita Acharekar profile-details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhitaacharekar&theme=tokyonight"  width="31%" alt="Siddhita Acharekar github stats"/>
 </p>
 
 <!-- <p align="center">
 <img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
 </p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Siddhita Acharekar&label=Profile%20views&color=0ea5e9&style=flat" alt="Siddhita Acharekar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhitaacharekar&label=Profile%20views&color=0ea5e9&style=flat" alt="Siddhita Acharekar" /> </p>
